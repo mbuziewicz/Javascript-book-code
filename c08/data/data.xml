@@ -3,16 +3,16 @@
   <event>
     <location>San Francisco, CA</location>
     <date>May 1</date>
-    <map>img/map-ca.png</map>
+    <map>https://mbuziewicz.github.io/Javascript-book-code/c08/img/map-ca.png</map>
   </event>
   <event>
     <location>Austin, TX</location>
     <date>May 15</date>
-    <map>img/map-tx.png</map>
+    <map>https://mbuziewicz.github.io/Javascript-book-code/c08/img/map-tx.png</map>
   </event>
   <event>
     <location>New York, NY</location>
     <date>May 30</date>
-    <map>img/map-ny.png</map>
+    <map>https://mbuziewicz.github.io/Javascript-book-code/c08/img/map-ny.png</map>
   </event>
 </events>
